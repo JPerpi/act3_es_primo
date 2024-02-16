@@ -5,15 +5,15 @@ import math
 def es_primo(num):
     """
     Función para determinar si un número es primo:
-    
-    
+
+
     Entrada:
     - entero: número entero a determinar si es primo
-    
+
 
     Salida:
     - True/False: e caso de ser primo o no
-    
+
     """
     if num < 2:
         return False
